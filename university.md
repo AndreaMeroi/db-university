@@ -58,6 +58,6 @@
 - id: PK BIGINT AI NOT NULL UNIQUE 
 - studente ID: (FK)
 - appello d'esame ID: (FK)
-- score
+- score:
 
 
